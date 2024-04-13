@@ -1,0 +1,219 @@
+.poppins-thin {
+    font-family: "Poppins", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+}
+
+.poppins-extralight {
+    font-family: "Poppins", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+}
+
+.poppins-light {
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+
+.poppins-regular {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.poppins-medium {
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.poppins-semibold {
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+}
+
+.poppins-bold {
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.poppins-extrabold {
+    font-family: "Poppins", sans-serif;
+    font-weight: 800;
+    font-style: normal;
+}
+
+.poppins-black {
+    font-family: "Poppins", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+}
+
+.poppins-thin-italic {
+    font-family: "Poppins", sans-serif;
+    font-weight: 100;
+    font-style: italic;
+}
+
+.poppins-extralight-italic {
+    font-family: "Poppins", sans-serif;
+    font-weight: 200;
+    font-style: italic;
+}
+
+.poppins-light-italic {
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    font-style: italic;
+}
+
+.poppins-regular-italic {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+}
+
+.poppins-medium-italic {
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: italic;
+}
+
+.poppins-semibold-italic {
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-style: italic;
+}
+
+.poppins-bold-italic {
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-style: italic;
+}
+
+.poppins-extrabold-italic {
+    font-family: "Poppins", sans-serif;
+    font-weight: 800;
+    font-style: italic;
+}
+
+.poppins-black-italic {
+    font-family: "Poppins", sans-serif;
+    font-weight: 900;
+    font-style: italic;
+}
+
+body {
+    padding-bottom: 40px;
+}
+
+.logo-a {
+    display: flex;
+    gap: 10px;    
+}
+
+.logo-div {
+    width: 50px;
+    height: 50px;
+}
+
+
+.logo-style  {
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+}
+
+
+.WhatsappSection {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    height: 50px;
+    z-index: 999;
+}
+
+.WhatsappSection button {
+    width: 100%;
+    height: 100%;
+    align-items: center;
+    border: none;
+    background-color: rgba(0,233,106);
+}
+
+.WhatsappSection button p {
+    margin: 0 10px;
+    font-size: 20px;
+    font-weight: bolder;
+    color: white;
+}
+
+.sclidestyle {
+    height: 500px;
+}
+
+.title-dev {
+    padding-top: 20px;
+}
+
+.title-dev p {
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+}
+
+.site-content {
+    width: 80%;
+    margin: auto;
+    padding-top: 20px;
+}
+
+.site-content span {
+    font-weight: bold;
+    font-size: 15px;
+    display: block;
+    text-align: center;
+}
+
+.site-content p {
+    padding:  20px 0px;
+    font-size: 16px;
+    width: 80%;
+    margin: auto;
+}
+
+.service {
+    width: 80%;
+    margin: auto;
+    padding: 20px 0px;
+}
+
+.service span, .contact span {
+    font-weight: bold;
+    font-size: 25px;
+    display: block;
+    text-align: center;
+}
+
+.service ul, .contact ul {
+    padding-top: 10px;
+}
+
+.service ul li, .contact ul li {
+    font-weight: bold;
+    padding-bottom: 10px;
+}
+
+.contact button {
+    border: none;
+    border-radius: 20px;
+    margin-left: 20px;
+}
+
+.text {
+    text-decoration: none;
+}
